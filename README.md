@@ -5,33 +5,28 @@ Repo for submission of Module 4: Quantitative Analysis with Pandas
 * Rolling variance, covariance, st dev, beta, mean (SMA)
 * Volatility & Sharpe ratio
 
-*Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.*
+---
 
+Developed for ***FinTech investing platform X***: The platform aims to offer clients a one-stop online investment solution for their retirement portfolios. This repo contains the file of algorithms to build each client's custom, inexpensive and high-quality portfolio.
 
+By evaluating four new investment options for inclusion in the client portfolios, this program allows wealth managers to compare various whale-sized funds in terms of different financial metrics.
 
 ---
 
 ## Technologies
 
-*Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.*
+This application was written in Python 3.9.4 .
 
 ---
 
-## Installation Guide
-
-*In this section, you should include detailed installation notes containing code blocks and screenshots.*
-
----
-
-## Usage
-
-*This section should include screenshots, code blocks, or animations explaining how to use your project.*
-
----
 
 ## Contributors
 
-*In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.*
+Brought to you by E. Kenny for ***FinTech investing platform X***.
+
+ekenny3@uncc.edu
+
+https://www.linkedin.com/in/erin-kenny-56838b164/
 
 ---
 
