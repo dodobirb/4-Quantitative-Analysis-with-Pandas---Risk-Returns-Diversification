@@ -1,5 +1,7 @@
-# Module 4 Challenge
-Repo for submission of Module 4: Quantitative Analysis with Pandas
+# 4: Quantitative Analysis with Pandas - Risk, Returns, Diversification
+FinTech Boot Camp Module 4 Challenge
+
+---
 
 * Cumulative returns
 * Rolling variance, covariance, st dev, beta, mean (SMA)
@@ -15,7 +17,7 @@ By evaluating four new investment options for inclusion in the client portfolios
 
 ## Technologies
 
-This application was written in Python 3.9.4 .
+This application was written in Python 3.9.4 on a Windows 10 OS.
 
 ---
 
